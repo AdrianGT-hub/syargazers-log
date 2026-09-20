@@ -12,3 +12,9 @@ li {
   padding: 0.5rem 0;
   border-bottom: 1px solid #ddd;
 }
+
+#bibelvers{
+  text-size: 20;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-variant: small-caps;
+}
